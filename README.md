@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kooqi
 - 👀 I’m interested in bigdata & AI
-- 🌱 I’m currently learning DNN
+- 🌱 I’m currently learning DL
 - 💞️ I’m looking to collaborate on ML
 - 📫 How to reach me kooqi@twitter
 
